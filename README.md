@@ -4,7 +4,6 @@ Primera pagina en la cual me dispongo a practicar el tema con respecto a las api
 ---
 ## Tabla de contenido
  - [¿QUE SE VE?](###¿Queseve?)
- - [Funcionalidades usuarios](###¿Comolohice?)
  - [Como instalarlo](##Instalacion)
  - [Como Usarlo](##Uso)
  - [Construido con](##Herramienta)
@@ -22,7 +21,9 @@ Primera pagina en la cual me dispongo a practicar el tema con respecto a las api
 **Primeros pasos:**
 
 - Lo primero que hice fue observasr como lo habia hecho el profesor
-- para luego "copiar" y entender el codigo para luego aplicar lo que vimos en clase 
+- para luego "copiar" y entender el codigo para luego aplicar lo que vimos en clase
+- y practicamente lo que hice con esto fue ampliar mis conocimientos con respecto a HTML Y CSS jugando con todos los estilos, links y demás
+- funcionalidades que estas me pueden ofrecer 
 ## instalacion:
  - Lo primero que se debe de hacer es descargar el archivo.zip.
  - si no tenemos visual estudio code lo descargamos en la microsoft store o desde google
